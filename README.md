@@ -10,7 +10,7 @@ lusl1991 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://auth.lusl1991.cn:8080/solo-v3.6.4/hello-solo)
+* [世界，你好！](http://auth.lusl1991.cn//hello-solo)
 
 
 
